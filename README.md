@@ -7,7 +7,6 @@ I'm a 17-year-old software development student at a technical high school. This 
 ---
 
 ### 💻 About Me
-* 🎓 **Education:** Technical High School — Software Development Major
 * 🎯 **Current Focus:** Preparing for the **INF.04** professional certification exam (*Application Creation, Programming, and Testing*)
 * 🛠️ **Tech Stack:**
   * **Languages:** Python, C++, JavaScript, PHP, SQL
