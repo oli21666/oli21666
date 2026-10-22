@@ -1,16 +1,28 @@
-## Hi there 👋
+### Hi there! 👋 I'm Oli
 
-<!--
-**oli21666/oli21666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 17-year-old software development student at a technical high school. This GitHub profile serves as a portfolio for my coursework, class projects, and personal programming builds.
 
-Here are some ideas to get you started:
+🌐 **Check out my portfolio & work at:** [atlantiscode.dev](https://atlantiscode.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 About Me
+* 🎓 **Education:** Technical High School — Software Development Major
+* 🎯 **Current Focus:** Preparing for the **INF.04** professional certification exam (*Application Creation, Programming, and Testing*)
+* 🛠️ **Tech Stack:**
+  * **Languages:** Python, C++, JavaScript, PHP, SQL
+  * **Web:** HTML, CSS, jQuery
+  * **Tools & Platforms:** Git, GitHub, VS Code, Visual Studio
+
+---
+
+### 📂 What You'll Find Here
+* 📚 **School Work:** Code, exercises, and projects completed during classes and workshops (programming, databases, web design).
+* 🚀 **Personal Projects:** Apps, bots, scripts, and custom projects built in my free time to sharpen my skills.
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=oli21666&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
