@@ -21,7 +21,3 @@ I'm a 17-year-old software development student at a technical high school. This 
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=oli21666&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
