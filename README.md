@@ -10,7 +10,7 @@ I'm a 17-year-old software development student at a technical high school. This 
 * 🎯 **Current Focus:** Preparing for the **INF.04** professional certification exam (*Application Creation, Programming, and Testing*)
 * 🛠️ **Tech Stack:**
   * **Languages:** Python, C++, JavaScript, PHP, SQL
-  * **Web:** HTML, CSS, jQuery
+  * **Web:** HTML, CSS, jQuery, Bootstrap, Vue
   * **Tools & Platforms:** Git, GitHub, VS Code, Visual Studio
 
 ---
